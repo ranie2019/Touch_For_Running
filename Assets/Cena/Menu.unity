@@ -2348,7 +2348,7 @@ GameObject:
   - component: {fileID: 1573088374}
   - component: {fileID: 1573088373}
   m_Layer: 5
-  m_Name: Image
+  m_Name: Boneco
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2632,7 +2632,7 @@ GameObject:
   - component: {fileID: 1701537129}
   - component: {fileID: 1701537128}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: Vidas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
